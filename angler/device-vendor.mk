@@ -36,7 +36,8 @@ PRODUCT_PACKAGES += \
     DMService \
     GCS \
     HotwordEnrollment \
-    qcrilmsgtunnel
+    qcrilmsgtunnel \
+    Turbo
 
 # Symlinks
 PRODUCT_PACKAGES += \
