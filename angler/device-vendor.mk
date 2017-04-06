@@ -41,8 +41,7 @@ PRODUCT_PACKAGES += \
     HiddenMenu \
     HotwordEnrollment \
     qcrilmsgtunnel \
-    SprintDM \
-    Turbo
+    SprintDM
 
 # Symlinks
 PRODUCT_PACKAGES += \
