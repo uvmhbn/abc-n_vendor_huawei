@@ -32,10 +32,6 @@ PRODUCT_PACKAGES += \
     CarrierServices \
     CNEService \
     ConnMO \
-    DCMO \
-    DMService \
-    GCS \
-    HotwordEnrollment \
     qcrilmsgtunnel
 
 # Symlinks
